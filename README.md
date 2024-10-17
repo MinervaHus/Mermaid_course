@@ -3,7 +3,6 @@ Graphs from Mermaid lecture
 Just for testing and learning purposes
 
 ```mermaid
-[
 flowchart TD
     A[Graph] -->|R or Python or even Excel| C{Graphical image}
     A[Graph] -->|Knowledge| B(Guide understanding)
@@ -12,5 +11,4 @@ flowchart TD
     E[UMAP etc] --> F(Share data)
     D[dot/bar/violin/line/plot etc] --> F(Share data)
     B(Guide understanding) --> F(Share data)
-]
 ```
