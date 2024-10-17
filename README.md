@@ -1,6 +1,6 @@
 # Mermaid_course
 Graphs from Mermaid lecture
-Just for testing and learning purposes
+	Just for testing and learning purposes
 
 ```mermaid
 flowchart TD
